@@ -1,0 +1,5 @@
+Matheus Prado Miranda - 7. Testes Funcionais vs. Testes de Unidade
+
+Primeiro ponto: Os testes de unidade são geralmente mais granulares e detalhados.
+
+Segundo ponto: Os testes de unidade visam testar partes individuais de código, enquanto os testes funcionais tentam observar mais o sistema.
