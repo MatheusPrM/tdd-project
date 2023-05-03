@@ -1,0 +1,8 @@
+Matheus Prado Miranda - 5. Reforçando o Processo TDD
+
+O processo descrito pela figura representa o processo de TDD, mas tratando de ambos os testes funcionais e testes de unidade. Nele, primeiro faz-se 
+o teste funcional, que é mais abrangente e trata de uma parte maior do código, e verifica-se seu resultado. Caso ele falhe, é necessário fazer testes
+de unidade para verificar se há erros em partes menores do código, e portanto mais fáceis de identificar quais seriam esses erros ou falhas. Nesse
+sentido, o processo para testes de unidade seria parecido. Primeiro, faz-se o teste, e se ele falha escreve-se um código mais mínimo, mas se não falha
+então faz-se a refotaração dessa pequena seção de código. Esse seria um ciclo menor da parte de unidades. Já no entanto, caso o teste funcional passe,
+também refatora-se ele caso seja necessário.
